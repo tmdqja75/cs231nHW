@@ -133,16 +133,7 @@ class KNearestNeighbor(object):
         #       and two broadcast sums.                                         #
         #########################################################################
         # *****START OF YOUR CODE (DO NOT DELETE/MODIFY THIS LINE)*****
-        * * * * * *
-        * * * * * *
-        * * * * * *
-        
-        0 0 0 0 0 0        0 0 0 0 0
-        0 0 0 0 0 0      *
-        0 0 0 0 0 0      * 
-        0 0 0 0 0 0      * 
-        0 0 0 0 0 0 
-        0 0 0 0 0 0 
+        pass
         
         
         # *****END OF YOUR CODE (DO NOT DELETE/MODIFY THIS LINE)*****
